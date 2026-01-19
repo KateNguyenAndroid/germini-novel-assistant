@@ -18,16 +18,16 @@ Germini Novel Assistant is a web application designed to help users generate nov
   npm install
 3. Start the backend server:
   npm start
-4. Frontend Setup
-  Open a new terminal and navigate to the frontend directory:
+### Frontend Setup
+1. Open a new terminal and navigate to the frontend directory:
   cd germini-novel-assistant-frontend
-5. Install dependencies:
+2. Install dependencies:
   npm install
-6. Start the frontend application:
+3. Start the frontend application:
   npm start
-7. Usage
+## Usage
   Navigate to http://localhost:3000 in your web browser to access the application.
   Use the Auth section to register and log in.
   Explore the Idea Generator, Writing Assistant, and Analytics features.
-8. Contributing
+## Contributing
   Contributions are welcome! Please feel free to submit a pull request or open an issue for any bugs or feature requests.
